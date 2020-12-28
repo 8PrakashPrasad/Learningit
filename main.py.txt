@@ -4,4 +4,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Hello World
 >>> print("IT IS EASY TO LEARN")
 IT IS EASY TO LEARN
->>> code updated
+>>> print("code updated")
